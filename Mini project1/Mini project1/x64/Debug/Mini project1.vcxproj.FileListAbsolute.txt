@@ -1,0 +1,3 @@
+D:\gui\Mini project1\Mini project1\x64\Debug\Mini project1.vcxproj.AssemblyReference.cache
+D:\gui\Mini project1\Mini project1\x64\Debug\Mini_project1.Form1.resources
+D:\gui\Mini project1\Mini project1\x64\Debug\Mini project1.vcxproj.GenerateResource.cache

@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+D:\gui\Mini project1\Form1.h(366,52): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+D:\gui\Mini project1\Form1.h(366,49): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Mini project1.vcxproj -> D:\gui\Mini project1\x64\Debug\Mini project1.exe
